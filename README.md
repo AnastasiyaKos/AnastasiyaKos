@@ -1,5 +1,5 @@
 # Hi, my name is **Anastasiya Kosukha**!
-## I'm a beginner *Front-end developer* from Minsk.
+## I'm a junior *Front-end developer* from Minsk.
 
 ### Languages and Technologies
 
